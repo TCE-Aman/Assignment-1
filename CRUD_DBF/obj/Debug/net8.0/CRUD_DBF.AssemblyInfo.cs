@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD_DBF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40522847f6fc75b39e7df544ed89bec843b38ed8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+449136a42807b2170f4ad8fa05b3e220bd99eef2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD_DBF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD_DBF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
