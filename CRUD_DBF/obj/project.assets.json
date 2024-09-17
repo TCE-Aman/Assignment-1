@@ -7858,11 +7858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CRUD_DBF\\CRUD_DBF\\CRUD_DBF.csproj",
+      "projectUniqueName": "D:\\git clone assignment\\Assignment-1\\CRUD_DBF\\CRUD_DBF.csproj",
       "projectName": "CRUD_DBF",
-      "projectPath": "D:\\CRUD_DBF\\CRUD_DBF\\CRUD_DBF.csproj",
+      "projectPath": "D:\\git clone assignment\\Assignment-1\\CRUD_DBF\\CRUD_DBF.csproj",
       "packagesPath": "C:\\Users\\118389\\.nuget\\packages\\",
-      "outputPath": "D:\\CRUD_DBF\\CRUD_DBF\\obj\\",
+      "outputPath": "D:\\git clone assignment\\Assignment-1\\CRUD_DBF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\118389\\AppData\\Roaming\\NuGet\\NuGet.Config",
